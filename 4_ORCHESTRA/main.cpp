@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 5. Orkiestra
 #include <iostream>
 #include <string>
 #include "Instrument.h"

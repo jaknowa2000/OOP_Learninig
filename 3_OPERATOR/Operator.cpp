@@ -1,4 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
 #include <iostream>
 #include <string>
 #include <math.h>

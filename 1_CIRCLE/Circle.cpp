@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 4. Circle
 #define _USE_MATH_DEFINES
 #include <type_traits>
 #include <iostream>

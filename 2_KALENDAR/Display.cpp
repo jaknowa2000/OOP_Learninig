@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 6. Kalendarz 2
 #include <iostream>
 #include <string>
 #include "Data.h"

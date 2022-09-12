@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 5. Orkiestra
 #ifndef TRABKA_H
 #define TRABKA_H
 

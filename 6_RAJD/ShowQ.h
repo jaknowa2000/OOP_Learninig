@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 7. Rajd
 #ifndef SHOWQ_H
 #define SHOWQ_H
 #include <string>

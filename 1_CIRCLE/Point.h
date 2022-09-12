@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 4. Circle
 #ifndef POINT_H
 #define POINT_H
 #include <type_traits> 

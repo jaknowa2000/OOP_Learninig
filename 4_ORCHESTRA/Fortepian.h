@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 5. Orkiestra
 #ifndef FORTEPIAN_H
 #define FORTEPIAN_H
 

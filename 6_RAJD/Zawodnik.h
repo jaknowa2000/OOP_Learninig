@@ -1,5 +1,3 @@
-//Jakub Nowakowski WCY19KX2S0
-//Zad. 7. Rajd
 #ifndef ZAWODNIK_H
 #define ZAWODNIK_H
 #include <string>
